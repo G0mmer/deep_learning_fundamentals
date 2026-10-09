@@ -1,0 +1,5 @@
+numpy==2.2.6
+matplotlib==3.10.8
+requests==2.32.5
+mnist1d==0.0.2.post1
+ipykernel==7.1.0
