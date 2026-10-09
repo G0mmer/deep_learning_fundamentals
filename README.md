@@ -8,7 +8,7 @@ I develop this project in my spare time to understand neural networks by impleme
 
 ## Run
 
-Use Python 3.10 or later. Place `nn_from_scratch_clean.ipynb` and `requirements_nn.txt` in the same directory, then install the listed dependencies in your Python environment:
+Use Python 3.10 or later. Place `mlp_in_numpy.ipynb` and `requirements_nn.txt` in the same directory, then install the listed dependencies in your Python environment:
 
 ```text
 python -m pip install -r requirements_nn.txt
